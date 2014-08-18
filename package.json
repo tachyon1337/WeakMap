@@ -1,6 +1,6 @@
 {
   "name": "WeakMap",
-  "version": "0.0.0",
+  "version": "0.3.5",
   "description": "Shim of the ES6 WeakMap",
   "main": "Gruntfile.js",
   "directories": {
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Polymer/WeakMap.git"
+    "url": "https://github.com/tachyon1337/WeakMap.git"
   },
   "author": "Polymer Authors",
   "license": "BSD",
