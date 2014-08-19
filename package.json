@@ -1,5 +1,5 @@
 {
-  "name": "WeakMap",
+  "name": "Google-Polymer-WeakMap",
   "description": "Shim of the ES6 WeakMap",
   "version": "0.3.5",
   "main": "Gruntfile.js",
@@ -13,7 +13,7 @@
     "grunt": "~0.4.1",
     "karma-mocha": "*",
     "karma-ie-launcher": "*",
-		"karma-safari-launcher": "*",
+    "karma-safari-launcher": "*",
     "karma-script-launcher": "*",
     "karma-crbot-reporter": "*",
     "grunt-karma": "*"
